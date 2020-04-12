@@ -4,9 +4,9 @@
 
 # Download GUI application
 ### Windows
-[windows-v1.1.1.zip](https://github.com/findCP/findCP/releases/download/v1.1.1/windows-v1.1.1.zip)
+[windows-v1.1.1.zip](https://github.com/findCP/findCPgui/releases/download/v1.1.1/windows-v1.1.1.zip)
 ### Linux
-[linux-v1.1.1.zip](https://github.com/findCP/findCP/releases/download/v1.1.1/linux-v1.1.1.zip)
+[linux-v1.1.1.zip](https://github.com/findCP/findCPgui/releases/download/v1.1.1/linux-v1.1.1.zip)
 
 # Source
 ## Table of Contents
