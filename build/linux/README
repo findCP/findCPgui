@@ -1,0 +1,17 @@
+# Issue multiarray import
+	pip uninstall numpy
+	pip uninstall scipy
+
+	pip install numpy --upgrade
+	pip install scipy --upgrade
+
+	pip install --upgrade --force-reinstall numpy
+
+# On run_GUI.spec
+# 	set up absolute path for GUI/run_GUI.py on Analysis.
+#	set up absolute path for 'main/' 'main/GUI/' and 'main/core/' on pathex.
+# 	set up absolute path for GUI/loading.gif on datas.
+
+# On this findCP/ folder run:
+	pyinstaller --windowed  -y --dist ./dist/linux --workpath /tmp build/linux/run_GUI.spec
+
